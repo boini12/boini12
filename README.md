@@ -1,5 +1,5 @@
 ## Hey there :sparkles:
-I'm Ines, a software engineer based in Germany 🇩🇪.
+I'm Ines, a software engineer currently based in Germany 🇩🇪.
 
 In my free time, I enjoy building apps to explore new languages and frameworks.  
 I also write plugins for open-source tools I personally use — for example, Calibre.
