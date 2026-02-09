@@ -16,7 +16,7 @@ The app checks if games are happening near any stops and warns if trains
 might be **overcrowded** because of them.
 
 🔮 *Planned:*  
-Porting the app to the web to learn **TypeScript (frontend)**  
+Porting the app to the web to learn **Vue.js (frontend)**  
 and implement the **backend in C#**.
 
 ---
