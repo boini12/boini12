@@ -31,4 +31,4 @@ and implement the **backend in C#**.
 ### Random Facts About Me
 - Learning latte art :coffee:
 - Currently reading The Stormlight Archives :crossed_swords:
-- Training for a half marathon  :runner:
+- Training for a sprint triathlon
