@@ -9,26 +9,23 @@ Working full-time as a SDE @ Vector Informatik GmbH using the tech stack C#, C++
 ---
 
 ### Current Projects
-**Learning Swift** by building an app that helps users figure out whether a  
+**Learning Vue and ASP.Net** by building an app that helps users figure out whether a  
 ⚽ **soccer match** might affect their train journey.
 
 The app checks if games are happening near any stops and warns if trains  
 might be **overcrowded** because of them.
 
-🔮 *Planned:*  
-Porting the app to the web to learn **TypeScript (frontend)**  
-and implement the **backend in C#**.
-
 ---
 
 ### Tools & Technologies
-- **Languages:** C#, C++, Python, Swift, Kotlin  
-- **IDEs:** Visual Studio, Visual Studio Code, XCode, Android Studio  
-- **Frameworks:** WPF, SwiftUI
+- **Languages:** C#, C++, Python, Swift, Kotlin, TypeScript
+- **IDEs:** Visual Studio, Visual Studio Code, XCode
+- **Frameworks:** WPF, SwiftUI, Vue
+- **AI-Tools:** Claude Code
 
 ---
 
 ### Random Facts About Me
-- Learning latte art :coffee:
-- Currently reading The Stormlight Archives :crossed_swords:
+- Journaling
+- Currently reading The Climate Book
 - Training for a half marathon  :runner:
