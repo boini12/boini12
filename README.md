@@ -4,7 +4,7 @@ I'm Ines, a software engineer currently based in Germany 🇩🇪.
 In my free time, I enjoy building apps to explore new languages and frameworks.  
 I also write plugins for open-source tools I personally use — for example, Calibre.
 
-Working full-time as a SDE @ Vector Informatik GmbH using the tech stack C#, C++, Python, WPF. Agentic coding with Claude Code.
+Working full-time as a SDE @ Vector Informatik GmbH using the tech stack C#, C++, Python, WPF.
 
 ---
 
@@ -27,5 +27,5 @@ might be **overcrowded** because of them.
 
 ### Random Facts About Me
 - Triathlete
-- Currently reading: Stormlight Archives
+- Currently reading: Stormlight Archives :dragon:
 - Training for a half marathon  :runner:
